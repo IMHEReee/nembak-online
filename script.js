@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
       question: "Siapa yang sering ngajak jalan? yoga atau tania",
       answer: "yoga",
     },
-    { question: "Siapa paling cemburuan? yoga atau tania", answer: "pizza" },
+    { question: "Siapa paling cemburuan? yoga atau tania", answer: "tania" },
     { question: "Apa yang paling suka kita lakuin?", answer: "makan" },
   ];
 
